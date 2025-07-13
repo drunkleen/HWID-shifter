@@ -44,7 +44,6 @@ SETLOCAL ENABLEDELAYEDEXPANSION
 color 1E
 cls
 
-echo  %ESC%[44m%ESC%[107m%ESC%[91mDiscord: DrunkLeen#8784
 echo %ESC%[44m%ESC%[92m------------------------
 echo %ESC%[44m%ESC%[92m***** HWID Spoofer ***** 
 echo %ESC%[44m%ESC%[92m------------------------ %ESC%[97m%ESC%[44m 
